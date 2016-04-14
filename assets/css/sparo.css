@@ -9,7 +9,10 @@
 /* Medium */
 
 	@media screen and (max-width: 980px) {
-
+		
+		span.hide-on-small img {
+			display: none;
+		}
 		
 	}
 
@@ -21,6 +24,10 @@
 			max-width: 400px;
 		}
 		
+		span.hide-on-small img {
+			display: none;
+		}
+		
 	}
 
 /* XSmall */
@@ -29,6 +36,9 @@
 	
 		.logo{
 			max-width: 300px;
+		}
+		span.hide-on-small img {
+			display: none;
 		}
 		
 	}
