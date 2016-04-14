@@ -33,3 +33,8 @@ Credits:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+		
+		
+		Craigs Notes
+		
+		Use http://embedresponsively.com/ for embedding videos
