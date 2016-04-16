@@ -2,7 +2,10 @@
 
 	@media screen and (max-width: 1680px) {
 
-		
+		.logo{
+			max-width: 400px;
+			margin-top: 75px;
+		}
 
 	}
 
@@ -12,6 +15,9 @@
 		
 		span.hide-on-small img {
 			display: none;
+		}
+		.logo{
+			max-width: 400px;
 		}
 		
 	}
@@ -96,4 +102,26 @@
 	.goal-number {
 	  font-weight: bold;
 	}
+
+
+	/* custom fonts */
+	
+	
+	.cabin, .main .container .major h2.cabin{
+		font-family: 'Cabin Sketch', cursive;
+		font-weight: bold;
+		text-transform: capitalize;
+	}
+	
+	.handlee, .button{
+		font-family: 'Handlee', cursive;
+	}
+	
+	.big{
+		font-size: 2em;
+	}
+	
+	
+	
+	
 	
